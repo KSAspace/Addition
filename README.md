@@ -5,14 +5,14 @@
 <h3 align="center">Это приложение к моему резюме :point_down: </h3>
 
 <h3 align="left">Сертификаты</a> 
-<img src="assets/2.png" height="22"/></h3>
+<img src="pic/2.png" height="22"/></h3>
 
 - [Сертификат QA](https://drive.google.com/file/d/1oYndRf8mF865bbAS87haSUn2xHgpcQkc/view?usp=share_link)
 
 - [Сертификат SQL](https://drive.google.com/file/d/1sBLk1i10Rfk6Jql-ewpj0h4SHmL5UZVz/view?usp=share_link)
 
 <h3 align="left">Примеры составляемой документации</a> 
-<img src="assets/1.png" height="22"/></h3>
+<img src="pic/1.png" height="22"/></h3>
 
 - [Тест-план](https://docs.google.com/document/d/1x3suPO8p-ENCCbUc2MN0_7YpXk7KhzEqldYZAV3-VaI/edit?usp=share_link)
 
