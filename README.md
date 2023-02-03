@@ -1,15 +1,17 @@
 <h3 align="center">
-  HELLO THERE
+  Добрый день!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 <h3 align="center">Это приложение к моему резюме :point_down: </h3>
 
-<h3 align="left">Сертификаты</a> 
+<h3 align="left">Сертификаты об окончании учебных курсов</a> 
 <img src="pic/2.png" height="22"/></h3>
 
-- [Сертификат QA](https://drive.google.com/file/d/1oYndRf8mF865bbAS87haSUn2xHgpcQkc/view?usp=share_link)
+- [Курс по тестированию ПО](https://drive.google.com/file/d/1oYndRf8mF865bbAS87haSUn2xHgpcQkc/view?usp=share_link)
 
-- [Сертификат SQL](https://drive.google.com/file/d/1sBLk1i10Rfk6Jql-ewpj0h4SHmL5UZVz/view?usp=share_link)
+- [Курс-тренажер по SQL](https://drive.google.com/file/d/1sBLk1i10Rfk6Jql-ewpj0h4SHmL5UZVz/view?usp=share_link)
+
+- [Курс по тестированию API](https://drive.google.com/file/d/1hB3ZtwpapvhmsICfho2PFMpJ3QF18nI8/view?usp=share_link)
 
 <h3 align="left">Примеры составляемой документации</a> 
 <img src="pic/1.png" height="22"/></h3>
